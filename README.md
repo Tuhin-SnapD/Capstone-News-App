@@ -2,7 +2,7 @@
 
 A modern, responsive news application built with Node.js, Express, and vanilla JavaScript. This application provides real-time news updates from various categories using the News API.
 
-![VIT News App](landing-page.png)
+![VIT News App](https://github.com/Tuhin-SnapD/Capstone-News-App/raw/main/landing-page.png)
 
 ## ✨ Features
 
