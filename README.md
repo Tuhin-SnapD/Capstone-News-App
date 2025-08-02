@@ -39,7 +39,7 @@ Before running this application, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Tuhin-SnapD/Capstone-News-App
    cd Capstone-News-App
    ```
 
@@ -203,14 +203,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Bootstrap](https://getbootstrap.com/) for the responsive framework
 - [Font Awesome](https://fontawesome.com/) for the icons
 - [Google Fonts](https://fonts.google.com/) for the typography
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/Capstone-News-App/issues) page
-2. Create a new issue with detailed information
-3. Contact the development team
 
 ---
 
